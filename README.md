@@ -1,2 +1,2 @@
 # phonetic-website
-This project is a static website that displays phonetic names that are generally used in radio communication.
+This repository is used for Git and GitHub training.
